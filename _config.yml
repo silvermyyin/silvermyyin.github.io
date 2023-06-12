@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The blue-eyed islanders puzzle
+title: Your Blog Title
 description: '' # write a nice description for your blog
-baseurl: '/islanders' # the subpath of your site, e.g. /blog
-url: 'https://silvermyyin.github.io' # the base hostname & protocol for your site http://www.example.com
+baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
+url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: Junsheng Yin (s4774280), Jiayun Zhang (s3541312), Luca Mueller (s3745503)
+twitter_username: 'twitter_username'
 
 # Build settings
 markdown: kramdown
