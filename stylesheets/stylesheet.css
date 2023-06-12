@@ -239,9 +239,9 @@ a:hover {
   background-color: #eff0f1;
   border: 0; }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 90em) {
   .main-content {
-    max-width: 100rem;
+    max-width: 120rem;
     padding: 1.25rem 6rem 0.5rem;
     margin: 0 auto;
     font-size: 1.1rem; } }
