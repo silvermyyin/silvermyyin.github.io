@@ -1,11 +1,11 @@
 ---
-title: <font size=10 color=lightblue>II. Basic arguments and possible variations</font>
+title: <font size=10 color=lightblue>II. Basic arguments and variations</font>
 ---
-The main research question is based on two possible arguments
+The main research question is based on two possible *arguments*:
 - Argument 1: The foreigner has no effect, because his comments do not tell the tribe anything that they do not already know.
 - Argument 2: 100 days after the address, all the blue eyed people leave the island.
 
-<font size=6>Variations</font>
+Some possible *variations* are: 
 - What happens if one member of the tribe is deaf and cannot hear the public announcement?
 Does their eye color matter?
 - What happens if one member of the tribe has dementia and forgets everything he knows at
