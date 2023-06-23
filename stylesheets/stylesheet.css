@@ -78,7 +78,7 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background: #4169E1 no-repeat 50%;
+  background: #56687C url('../img/bluebrown.jpg') no-repeat 50%;
   background-size: cover;
 }
 
