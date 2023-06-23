@@ -7,8 +7,8 @@
 
 # Site settings
 title: The blue-eyed islanders puzzle
-baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
-url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://silvermyyin.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'Junsheng Yin (s4774280), Jiayun Zhang (s3541312), Luca Mueller (s3745503)'
 
