@@ -14,7 +14,7 @@ The normal blue-eyed person will see one blue-eyed and three brown-eyed people. 
 
 All of brown-eyed people will see two blue-eyed and two brown-eyed people. Their deduction will be like: "If those two people are the only ones with blue eyes, then I have brown eyes. That case, they will leave the island tomorrow night. If not, it means there are more than two people with blue eyes." On the Day 1, no one leaves. Each brown-eyed person is waiting for the two blue-eyed people to leave. On the **Day 2**, they see only one of the blue-eyed people has left, while the other one is still on the island. Now they will feel quite confused, as it contradicts their assumption. Therefore they will not be able to figure out their own eye color or why the other blue-eyed person is still on the island.
 
-In this variation, only the normal blue-eyed person will leave the island at the midnight of**Day 2**. The other four people will stay on the island forever.
+In this variation, only the normal blue-eyed person will leave the island at the midnight of **Day 2**. The other four people will stay on the island forever.
 
 Therefore in general, if there are more than one blue-eyed people (suppose the total number is **m**), the normal blue-eyed people will leave the island at the midnight of **Day m**. 
 <font size=6 color=black>3. The color-blinded person is the only islander who has <font size=6 color=blue>blue</font> eyes:</font>
