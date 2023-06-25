@@ -1,5 +1,5 @@
 ---
-title: <font size=10 face="courier New" color=darkblue>III.Advanced Topics </font>
+title: <font size=10 face="courier New" color=darkblue>III. Advanced Topics </font>
 
 ---
 - **Public announcement logic** : Our puzzle is connected to public announcement logic because it involves a situation where the knowledge of the agents changes after a public announcement is made. When the foreigner says that he sees a person with blue eyes, this changes the knowledge and beliefs of the islanders. That is to say, the foreigner's statement that at least one person from the tribe has blue eyes is a public announcement that eliminates the possible world where no one has blue eyes. This announcement triggers a chain of reasoning among the tribe members that leads them to discover their own eye color eventually. 
