@@ -6,5 +6,5 @@ The blue-eyed islanders puzzle is a classic example of common knowledge and epis
 
 
 
-[Click to Look at the code](https://github.com/Jiayun-Zhang/LAMAS_project) from GitHub
+
 
