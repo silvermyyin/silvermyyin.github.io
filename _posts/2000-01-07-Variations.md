@@ -1,7 +1,7 @@
 ---
 title: <font size=10 face="courier New" color=darkblue>V. Variations</font>
 ---
-We want to assume that one of the islanders is **color-blind**. Suppose the total people is four. Then there are three situations:
+We want to assume that one of the islanders is **color-blind**. Suppose the total people is four. **L** represents blue and **R** represents brown. Then there are three situations:
  <font size=6 color=black>1. The color-blinded person has <font size=6 color=brown>brown</font> eyes:</font>
 
 If the color-blinded person has blue eyes, he will be not able to see the eye colors of anyone else. It does not bother the deduction of two blue-eyed people. So just like the normal situation, all the **m** blue-eyed people will suicide at **Day m**.
