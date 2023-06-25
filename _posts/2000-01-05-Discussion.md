@@ -1,5 +1,5 @@
 ---
-title: <font size=10 color=lightblue>VI.Discussion</font>
+title: <font size=10 face="courier New" color=darkblue>VI.Discussion</font>
 ---
 
 
